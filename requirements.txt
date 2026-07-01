@@ -1,0 +1,4 @@
+requests
+fake-useragent
+python-telegram-bot
+urllib3
